@@ -1,0 +1,115 @@
+body {
+    padding-top: 20px;
+    background-color: #cfa57b;
+    font-family: "Nunito", sans-serif;
+}
+.coklat {
+    background: #cfa57b;
+}
+.content-home {
+    max-height: 1440px;
+    max-width: 2000px;
+    text-align: center;
+}
+.content-home-coklat {
+    padding-top: 20px 0;
+}
+.img-responsive1 {
+    max-width: 100%;
+    align-items: flex-end;
+    height: auto;
+}
+.rumus {
+    padding: 170px;
+    display: flex;
+}
+.rumus .list {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rumus .list.foto img {
+    width: 100%;
+    object-fit: cover;
+}
+.rumus .list .desc {
+    padding: 30px;
+    font-weight: 600;
+}
+.putih {
+    background: #fff;
+}
+.content-middle {
+    padding: 100px;
+    text-align: center;
+}
+.middle1 .desc2 button {
+    background: #cfa57b;
+    bottom: unset;
+    color: #000;
+    border: 1px solid #000;
+    border-radius: 15px;
+    padding: 5px 10px;
+}
+.rumput {
+    background: #cfa57b;
+}
+.content-bottom {
+    background-image: url("/public/img/");
+    max-width: 1660px;
+    text-align: center;
+}
+.content-bottom-atas {
+    padding-top: 30px 0;
+}
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+.rumus1 {
+    padding: 170px;
+    display: flex;
+}
+.rumus1 .list1 {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rumus1 .list1.foto1 img {
+    max-height: 1440px;
+    max-width: 1440px;
+    object-fit: cover;
+}
+.rumus1 .list1 .desc1 {
+    padding: 50px;
+    font-weight: 600;
+}
+.grey {
+    background: #fff;
+}
+.content-QnA {
+    padding: 100px;
+    text-align: start;
+}
+.form-control {
+    display: block;
+    width: 50%;
+    padding: 05px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 2;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.footer {
+    background-color: #a05d32;
+}
